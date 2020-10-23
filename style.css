@@ -1,0 +1,61 @@
+#header
+{
+  background-color: #ff4c68;
+  height: 550px;
+}
+
+#header-img
+{
+  width: 30px;
+}
+
+#navbar
+{
+  background-color: #ff4c68;
+}
+#heading
+{
+  text-align: center;
+}
+
+#submit,#video
+{
+  padding-left: 480px;
+
+}
+
+
+#head-form
+{
+  padding-top: 100px;
+}
+
+#feature
+{
+  padding: 7% 25%;
+  margin-left: 30px;
+}
+
+
+#card
+{
+  background-color: #ef8172;
+
+    margin-left: 10px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#footer-para
+{
+  text-align: right;
+  margin-right: 10px;
+  color: #234f72;
+}
+
+.video
+{
+  margin-left: 300px;
+  padding-top: 20px;
+
+}
